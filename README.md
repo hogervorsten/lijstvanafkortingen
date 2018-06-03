@@ -9,7 +9,7 @@ Wil je een afkorting of een gezegde toevoegen, klik dan op de bijbehorende link.
 
 ## Afko's
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMs8d7XumaPkLkrVC0DXJUI0VufUaH2tO1s0meqRabf5mD8PsaBb4agZx5swz1la2dTGW1aXQ8SqpG/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe style="width: 100%",  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMs8d7XumaPkLkrVC0DXJUI0VufUaH2tO1s0meqRabf5mD8PsaBb4agZx5swz1la2dTGW1aXQ8SqpG/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 
