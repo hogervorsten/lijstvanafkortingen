@@ -9,13 +9,13 @@ Wil je een afkorting of een gezegde toevoegen, klik dan op de bijbehorende link.
 
 ## Afko's
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMs8d7XumaPkLkrVC0DXJUI0VufUaH2tO1s0meqRabf5mD8PsaBb4agZx5swz1la2dTGW1aXQ8SqpG/pubhtml?widget=true&amp;headers=true" width="300" height="400"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMs8d7XumaPkLkrVC0DXJUI0VufUaH2tO1s0meqRabf5mD8PsaBb4agZx5swz1la2dTGW1aXQ8SqpG/pubhtml?widget=true&amp;headers=true" width="600" height="400"></iframe>
 
 
 
 ## Gezegden en uitspraken
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwW0gVSqYHOSjWGeVurIIpQUgQi-PrlzXyvKKGEotJqVHKw9yoBVR3GuRylJadMkAJ9Qa0QZVMx9qn/pubhtml?widget=true&amp;headers=false" width="300" height="400" ></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwW0gVSqYHOSjWGeVurIIpQUgQi-PrlzXyvKKGEotJqVHKw9yoBVR3GuRylJadMkAJ9Qa0QZVMx9qn/pubhtml?widget=true&amp;headers=false" width="600" height="500" ></iframe>
 
 
 
